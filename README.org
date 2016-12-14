@@ -1,0 +1,10 @@
+#+TITLE: *XMConf*
+#+AUTHOR: ikyp
+#+DATE: 2016-12-15 03:50 am
+
+* Intro
+  This my personal _xmonad_ configurations
+
+  Extra installed package is *xmonad-contrib*
+
+  My configurations is /simple/ & /clean/
