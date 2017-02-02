@@ -221,8 +221,8 @@ myManageHook = composeAll
     , className =? "Firefox"       --> doShift "☱"
     , className =? "Emacs"         --> doShift "☲"
     , className =? "Evince"        --> doShift "☳"
-    , className =? "qpdfview"        --> doShift "☳"
-    , className =? "pcmanfm-qt"       --> doShift "☴" ]
+    , className =? "qpdfview"      --> doShift "☳"
+    , className =? "pcmanfm-qt"    --> doShift "☴" ]
 
 ------------------------------------------------------------------------
 -- Event handling
